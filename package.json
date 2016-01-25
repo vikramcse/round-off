@@ -1,0 +1,27 @@
+{
+  "name": "round-off",
+  "version": "1.0.0",
+  "description": "A faster way to round off a number towards 0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramcse/round-off.git"
+  },
+  "keywords": [],
+  "author": "Vikram <vikramcse.10@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikramcse/round-off/issues"
+  },
+  "homepage": "https://github.com/vikramcse/round-off#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  },
+  "dependencies": {
+    "what-type": "^1.0.0"
+  }
+}
