@@ -4,7 +4,7 @@ http://www.jstips.co/en/rounding-the-fast-way/
 
 # Usage
 ```js
-var round = require('roundoff');
+var round = require('round-off');
 
 console.log(round(-1.0001));
 // -> -1
